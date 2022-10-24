@@ -1,3 +1,3 @@
-# cohort_september_22_is_the_best
+# The best dang cohort in the land
 
 - Just a repo to explain how git works.
